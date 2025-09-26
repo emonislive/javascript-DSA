@@ -1,3 +1,5 @@
+ ##  <p align="center">Big-O Complexity Chart : [Resource](https://www.bigocheatsheet.com/)</p> 
+
 ### Code Example
 
 #### O(1) - Constant Time (Fastest)
