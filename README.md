@@ -1,6 +1,6 @@
 <div align="center">
 
-  # JavaScript Data Structures & Algorithms
+  <img src="./Cover-photo.png"  />
   
 </div>
 
